@@ -47,8 +47,8 @@ public class FirstFragment extends Fragment {
     }
 
     private void reset() {
-        lp1 = 20;
-        lp2 = 20;
+        lp1 = 0;
+        lp2 = 0;
         pp1 = 0;
         pp2 = 0;
     }
